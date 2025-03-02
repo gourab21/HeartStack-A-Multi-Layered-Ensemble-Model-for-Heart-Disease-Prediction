@@ -41,6 +41,7 @@ You can install the dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Webapplication
+![Webapp](https://github.com/gourab21/HeartStack-A-Multi-Layered-Ensemble-Model-for-Heart-Disease-Prediction/blob/main/Preview%20Web%20app.PNG)
